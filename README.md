@@ -131,3 +131,8 @@
 链接: http://pan.baidu.com/s/1mhOmhV6  
 密码:inkf
 
+
+如发现随书源码有误，需要提交修改，请移步如下资源库：  
+https://github.com/rongbo-j/angular-book-source
+
+感谢大家的反馈！！
