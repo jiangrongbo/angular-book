@@ -128,8 +128,8 @@
 19.6 本章小结	330  
 
 注意：Github下载速度慢，读者也可从如下地址获取本书源码  
-链接: http://pan.baidu.com/s/1mhOmhV6  
-密码:inkf
+
+链接: https://pan.baidu.com/s/1TrmsH4q6SH640UiFGX0waw 提取码: w7jw 
 
 
 如发现随书源码有误，需要提交修改，请移步如下资源库：  
